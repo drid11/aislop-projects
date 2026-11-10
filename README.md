@@ -26,3 +26,4 @@ Baudo BOYZ : [https://discord.gg/WpQ6UpGb59]
 |Nom|Lien vers le site|Lien vers le GitHub (optionnel)|contexte|
 |---|---|---|---|
 |guide_vibecode|https://electrolynx.github.io/guide_vibecode|https://www.github.com/ElectroLynx/guide_vibecode|utilisé dans une commande root il vous permet de savoir si un site est vibecode (un peu hypocrite le site est lui même vibecode)|
+|nexploria|[https://nexploria-2.netlify.app/](https://nexploria-2.netlify.app/)|https://github.com/Loup0007A/science-site|Un site interactif permettant de tester 100 expériences visuelles commes des fractales.|
